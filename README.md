@@ -10,30 +10,33 @@ Matcha is a powerful tool designed to assist the developer by integrating a sche
 
 - Once installed, navigate to the proper URL to load up our GUI. 
 
-```markdown
-Syntax highlighted code block
+### Features
+- Matcha aims to assist the developer during development with GraphQL. By Integrating a visualizer in conjunction with the core functionality of GraphiQL, developers are now able to explore their GraphQL schema while simultaneously testing their queries.   
 
-# Header 1
-## Header 2
-### Header 3
+- Navigate through the panel to the left in the interactive visualizer to auto-generate queries rather than manually typing them in. 
 
-- Bulleted
-- List
+- Auto-generate tests for any or all executed queries
 
-1. Numbered
-2. List
+- Copy or export auto-generated tests 
 
-**Bold** and _Italic_ and `Code` text
+### Authors
 
-[Link](url) and ![Image](src)
-```
+Bryan Leong | github.com/GodofCookery
+Eddie Choi | github.com/echoi01 
+Jonathan Che | github.com/JonathanChe 
+Sean Herbert | github.com/s-herbert 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### License
 
-### Jekyll Themes
+- This project is licensed under the MIT License - see the LICENSE.md file for details
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/JonathanChe/react-matcha/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Credits
 
-### Support or Contact
+- GraphiQL | github.com/graphql/graphiql 
+- GraphQL Voyager | github.com/APIs-guru/graphql-voyager 
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Acknowledgements
+
+- Greg Shamalta | github.com/grs83 
+- Clariz Mariano | github.com/havengoer
+
