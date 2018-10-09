@@ -21,10 +21,10 @@ Matcha is a powerful tool designed to assist the developer by integrating a sche
 
 ### Authors
 
-Bryan Leong | github.com/GodofCookery
-Eddie Choi | github.com/echoi01 
-Jonathan Che | github.com/JonathanChe 
-Sean Herbert | github.com/s-herbert 
+- Bryan Leong | github.com/GodofCookery
+- Eddie Choi | github.com/echoi01 
+- Jonathan Che | github.com/JonathanChe 
+- Sean Herbert | github.com/s-herbert 
 
 ### License
 
