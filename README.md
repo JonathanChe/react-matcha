@@ -21,10 +21,10 @@ Matcha is a powerful tool designed to assist the developer by integrating a sche
 
 ### Authors
 
-- Bryan Leong | github.com/GodofCookery
-- Eddie Choi | github.com/echoi01 
-- Jonathan Che | github.com/JonathanChe 
-- Sean Herbert | github.com/s-herbert 
+- [Bryan Leong | github.com/GodofCookery](https://github.com/GodofCookery)
+- [Eddie Choi | github.com/echoi01](https://github.com/echoi01) 
+- [Jonathan Che | github.com/JonathanChe](https://github.com/JonathanChe) 
+- [Sean Herbert | github.com/s-herbert](https://github.com/s-herbert)  
 
 ### License
 
@@ -32,11 +32,11 @@ Matcha is a powerful tool designed to assist the developer by integrating a sche
 
 ### Credits
 
-- GraphiQL | github.com/graphql/graphiql 
-- GraphQL Voyager | github.com/APIs-guru/graphql-voyager 
+- [GraphiQL | github.com/graphql/graphiql](https://github.com/graphql/graphiql)
+- [GraphQL Voyager | github.com/APIs-guru/graphql-voyager](https://github.com/APIs-guru/graphql-voyager)
 
 ### Acknowledgements
 
-- Greg Shamalta | github.com/grs83 
-- Clariz Mariano | github.com/havengoer
+- [Greg Shamalta | github.com/grs83](https://github.com/grs83)
+- [Clariz Mariano | github.com/havengoer](https://github.com/havengoer)
 
