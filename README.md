@@ -1,12 +1,14 @@
-## Welcome to GitHub Pages
+## Matcha
 
-You can use the [editor on GitHub](https://github.com/JonathanChe/react-matcha/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Matcha is a powerful tool designed to assist the developer by integrating a schema visualizer and generating tests for queries.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### How to Use
 
-### Markdown
+- To use Matcha, install and incorporate the express middleware into your existing project with npm. To use the express middleware, simply import the package into your server file and drop your schema in there. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- Matcha will be available at the specified route. 
+
+- Once installed, navigate to the proper URL to load up our GUI. 
 
 ```markdown
 Syntax highlighted code block
