@@ -39,4 +39,3 @@ Matcha is a powerful tool designed to assist the developer by integrating a sche
 
 - [Greg Shamalta | github.com/grs83](https://github.com/grs83)
 - [Clariz Mariano | github.com/havengoer](https://github.com/havengoer)
-
