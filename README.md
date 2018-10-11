@@ -1,3 +1,6 @@
+# react-matcha ![alt text](https://travis-ci.com/matcha-tools/react-matcha.svg?branch=master)  [![dependencies Status](https://david-dm.org/matcha-tools/react-matcha/status.svg)](https://david-dm.org/matcha-tools/react-matcha)
+There are those who love to get dirty and fix things. They drink coffee at dawn, beer after work. And those who stay clean, just appreciate things. At breakfast they have milk and juice at night. There are those who do both, they drink tea.
+
 ## Matcha
 
 Matcha is a powerful tool designed to assist the developer by integrating a schema visualizer and generating tests for queries.
